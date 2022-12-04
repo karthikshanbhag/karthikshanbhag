@@ -7,15 +7,31 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), I'm an M
 - <div>
     <img width="100" height="100" align='left' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kgNpiXLjUhGi69xTOHrxKUdQyGBDPKBXn4twR5pP7A&s" >
     ... Gurugram police cybercell summer internship-2021.
-        Done case studies on many cyber crimes using many attack techniques
+       <br/> Done case studies on many cyber crimes using many attack techniques<br/>
+       06/2021 - 01/2021
     <br />
     <strong>View: </strong> <a href="https://gurgaon.haryanapolice.gov.in/cyber-crime" >Gurugram Police</a> 
-    <br /> 
+    <br />
+    <strong>Show Credentials: </strong> <a href="https://drive.google.com/file/d/1Paf7wQrL6zIWT19Rh5ahLsaUU2vl8hVQ/view?usp=share_link" >Internship Certificate</a>
+    <br/>
     <br /> 
   </div>
   
    <br /> 
-  
+ - <div>
+    <img width="100" height="100" align='left' src="https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" >
+    ... Full-Stack web development internship on Mern-stack technology<br/>
+    .....Worked on development of REST API's and build a full stack ecommerce website and worked on the some of the basic mern stack applications –Javascript,              node,express, mongo-db, react, redux, heroku.
+    <br />
+    04/2022 - 10/2022
+    <br />
+    <strong>View: </strong> <a href="https://www.devtown.in/" >DEVTOWN</a> 
+    <br /> 
+           <strong>Show Credentials: </strong> <a href="https://drive.google.com/file/d/13izgspYcQyItrRMcxNkJ1suoPew34pUt/view?usp=share_link" >Letter Of Recomendation</a> 
+    <br /> 
+           <strong>Show Credentials: </strong> <a href="https://drive.google.com/file/d/13XxaZFd32dTsFDzTQbKJfHpoKBMm1zPV/view?usp=share_link" >Internship Certificate</a> 
+    <br /> 
+  </div>
 
 
 
