@@ -5,6 +5,22 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), I'm an M
 **Projects i've worked on...**
 
 - <div>
+    <img width="100" height="100" align='left' src="https://media.licdn.com/dms/image/C560BAQEuthsfjDr4og/company-logo_200_200/0/1543920954810?e=2147483647&v=beta&t=sSKs6_eF1EHlVgKE2qthnbZjRmpc97Bcbqs-bRIT7ew" >
+    ... Backend Development Intern<br/>
+    .....Working in the backend of the various client web apps intergrating with razorpay payment gateway, google oauth 2 and various other backend stuffs using nestJS,postgres.
+    <br />
+    04/2022 - 10/2022
+    <br />
+    <strong>View: </strong> <a href="https://www.flotanomers.com/" >Flotanomers R&D Pvt Ltd</a> 
+    <br /> 
+           <strong>Show Credentials: </strong> <a href="https://drive.google.com/file/d/1UEGk5vPLdytoyV1dV0mhEw2ro4h7g6UJ/view?usp=sharing" >Internship Certificate</a> 
+    <br /> 
+  </div>
+
+
+   <br />
+   <br />
+  <div>
     <img width="100" height="100" align='left' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kgNpiXLjUhGi69xTOHrxKUdQyGBDPKBXn4twR5pP7A&s" >
     ... Gurugram police cybercell summer internship-2021.
        <br/> Done case studies on many cyber crimes using many attack techniques<br/>
@@ -16,12 +32,11 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), I'm an M
     <br/>
     <br /> 
   </div>
-  
    <br /> 
  - <div>
     <img width="100" height="100" align='left' src="https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" >
     ... Full-Stack web development internship on Mern-stack technology<br/>
-    .....Worked on development of REST API's and build a full stack ecommerce website and worked on the some of the basic mern stack applications –Javascript,              node,express, mongo-db, react, redux, heroku.
+    .....Worked on development of REST API's and build a full stack ecommerce website and worked on the some of the basic mern stack applications – Javascript, node, express, mongo-db, react, redux, heroku.
     <br />
     04/2022 - 10/2022
     <br />
