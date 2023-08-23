@@ -4,7 +4,22 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), I'm an M
 
 **Projects i've worked on...**
 
-- <div>
+ <div>
+ <img width="100" height="100" align='left' src="https://media.licdn.com/dms/image/C4D0BAQFTUKQWtMvPbQ/company-logo_200_200/0/1661939932983?e=1700697600&v=beta&t=_l_OEt5RUbinMumstq1QVwOdcDO6cKuju77FxRKfNvo" >
+    ... Software Development Engineer Intern<br/>
+<!--     .....Working in the backend of the various client web apps intergrating with razorpay payment gateway, google oauth 2 and various other backend stuffs using nestJS,postgres. -->
+    <br />
+    08/2023 - present
+    <br />
+    <strong>View: </strong> <a href="https://tryamigo.com/" >Amigo Softcom LLP</a> 
+    <br /> 
+<!--            <strong>Show Credentials: </strong> <a href="https://drive.google.com/file/d/1UEGk5vPLdytoyV1dV0mhEw2ro4h7g6UJ/view?usp=sharing" >Internship Certificate</a>  -->
+    <br /> 
+  </div>
+
+
+   <br />
+    <div>
     <img width="100" height="100" align='left' src="https://media.licdn.com/dms/image/C560BAQEuthsfjDr4og/company-logo_200_200/0/1543920954810?e=2147483647&v=beta&t=sSKs6_eF1EHlVgKE2qthnbZjRmpc97Bcbqs-bRIT7ew" >
     ... Backend Development Intern<br/>
     .....Working in the backend of the various client web apps intergrating with razorpay payment gateway, google oauth 2 and various other backend stuffs using nestJS,postgres.
