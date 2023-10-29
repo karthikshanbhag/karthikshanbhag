@@ -2,7 +2,7 @@
 
 I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), I'm an MERN stack developer.
 
-**Projects i've worked on...**
+**Companies and Projects i've worked on...**
 
  <div>
  <img width="100" height="100" align='left' src="https://media.licdn.com/dms/image/C4D0BAQFTUKQWtMvPbQ/company-logo_200_200/0/1661939932983?e=1700697600&v=beta&t=_l_OEt5RUbinMumstq1QVwOdcDO6cKuju77FxRKfNvo" >
