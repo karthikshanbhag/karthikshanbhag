@@ -1,13 +1,29 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/PriyaBihani/PriyaBihani/main/wave.gif" width="30px"></h4>
 
-I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), I'm an MERN stack developer.
+I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), Enthusiastic Full-Stack developer eager to contribute to team success through hard work, attention to
+detail and excellent organizational skills. Clear understanding of mern stack web development. Motivated to learn, grow and excel in Development Industry..
 
 **Companies and Projects i've worked on...**
 
+
+ <div>
+  <div>
+<!--     <img width="100" height="100" align='left' src="" > -->
+    ...<strong>Full-Stack web developer-Intern</strong> <br/>
+    .....During his internship I worked as a Fullstack Developer, contributing to various aspects of our projects. Developing REST APIs using Nest.js framework, and also worked with MongoDB for database management.
+    <br />
+    07/2023 - 09/2023
+    <br />
+    <strong>View: </strong> <a href="#" >Social-blazee</a> 
+    <br /> 
+           <strong>Show Credentials: </strong> <a href="https://drive.google.com/file/d/1v6yC4XzRF_lR9Y0lgneH_ijuWCQkdZjJ/view?usp=sharing" >Internship Certificate</a> 
+    <br /> 
+  </div>
+  <br />
  <div>
  <img width="100" height="100" align='left' src="https://media.licdn.com/dms/image/C4D0BAQFTUKQWtMvPbQ/company-logo_200_200/0/1661939933894/amigo_data_logo?e=1712793600&v=beta&t=qB_Winh0I-ks2cxEDU1lG3kIZDs_RV-5eFZt-XQhvWc" >
-    ... Software Developer Engineer Intern<br/>
-<!--     .....Working in the backend of the various client web apps intergrating with razorpay payment gateway, google oauth 2 and various other backend stuffs using nestJS,postgres. -->
+    ... <strong>Software Developer Engineer Intern</strong><br/>
+     .....Working Of clients applications using MERN stack , Nextjs, DigitalOcean
     <br />
     08/2023 - present
     <br />
@@ -21,7 +37,7 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), I'm an M
    <br />
     <div>
     <img width="100" height="100" align='left' src="https://media.licdn.com/dms/image/C560BAQEuthsfjDr4og/company-logo_200_200/0/1543920954810?e=2147483647&v=beta&t=sSKs6_eF1EHlVgKE2qthnbZjRmpc97Bcbqs-bRIT7ew" >
-    ... Backend Development Intern<br/>
+    ... <strong>Backend Development Intern</strong><br/>
     .....Working in the backend of the various client web apps intergrating with razorpay payment gateway, google oauth 2 and various other backend stuffs using nestJS,postgres.
     <br />
     04/2022 - 10/2022
@@ -32,12 +48,10 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), I'm an M
     <br /> 
   </div>
 
-
-   <br />
    <br />
   <div>
     <img width="100" height="100" align='left' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kgNpiXLjUhGi69xTOHrxKUdQyGBDPKBXn4twR5pP7A&s" >
-    ... Gurugram police cybercell summer internship-2021.
+    ...<strong> Gurugram police cybercell summer internship-2021.</strong>
        <br/> Done case studies on many cyber crimes using many attack techniques<br/>
        06/2021 - 01/2021
     <br />
@@ -50,7 +64,7 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), I'm an M
    <br /> 
  - <div>
     <img width="100" height="100" align='left' src="https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" >
-    ... Full-Stack web development internship on Mern-stack technology<br/>
+    ...<strong>Full-Stack web development internship on Mern-stack technology</strong><br/>
     .....Worked on development of REST API's and build a full stack ecommerce website and worked on the some of the basic mern stack applications – Javascript, node, express, mongo-db, react, redux, heroku.
     <br />
     04/2022 - 10/2022
