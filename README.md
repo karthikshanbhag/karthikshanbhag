@@ -62,7 +62,7 @@ detail and excellent organizational skills. Clear understanding of mern stack we
     <br /> 
   </div>
    <br /> 
- - <div>
+  <div>
     <img width="100" height="100" align='left' src="https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" >
     ...<strong>Full-Stack web development internship on Mern-stack technology</strong><br/>
     .....Worked on development of REST API's and build a full stack ecommerce website and worked on the some of the basic mern stack applications – Javascript, node, express, mongo-db, react, redux, heroku.
