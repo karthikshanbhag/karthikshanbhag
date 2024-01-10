@@ -5,7 +5,7 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), I'm an M
 **Companies and Projects i've worked on...**
 
  <div>
- <img width="100" height="100" align='left' src="https://media.licdn.com/dms/image/C4D0BAQFTUKQWtMvPbQ/company-logo_200_200/0/1661939932983?e=1700697600&v=beta&t=_l_OEt5RUbinMumstq1QVwOdcDO6cKuju77FxRKfNvo" >
+ <img width="100" height="100" align='left' src="https://media.licdn.com/dms/image/C4D0BAQFTUKQWtMvPbQ/company-logo_200_200/0/1661939933894/amigo_data_logo?e=1712793600&v=beta&t=qB_Winh0I-ks2cxEDU1lG3kIZDs_RV-5eFZt-XQhvWc" >
     ... Software Developer Engineer Intern<br/>
 <!--     .....Working in the backend of the various client web apps intergrating with razorpay payment gateway, google oauth 2 and various other backend stuffs using nestJS,postgres. -->
     <br />
