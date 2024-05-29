@@ -6,8 +6,8 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), an enthu
 
 **Companies and Projects I've worked on:**
 
-<div>
-  <div>
+- <div>
+    <img width="100" height="100" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYrTIYypyXz0cZ91cEPUkE76lnYq-lEFx8ET4YOm5Z1cixrw8CHVYZkLOEYyuSwh6iVIw&usqp=CAU" alt="Social Blazee Logo">
     <strong>Full-Stack Web Developer Intern</strong> <br/>
     During my internship, I worked as a Full-Stack Developer, contributing to various aspects of our projects. I developed REST APIs using the Nest.js framework and worked with MongoDB for database management.
     <br />
@@ -19,7 +19,7 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), an enthu
     <br />
   </div>
   <br />
-  <div>
+- <div>
     <img width="100" height="100" align="left" src="https://media.licdn.com/dms/image/C4D0BAQFTUKQWtMvPbQ/company-logo_200_200/0/1661939933894/amigo_data_logo?e=1724889600&v=beta&t=8wlbgkFn2co4x7pKTctJA_cEcSSdZi1kkdJz8N1hXvM" alt="Amigo Softcom LLP Logo">
     <strong>Software Developer Engineer Intern</strong><br/>
     Worked on clients' applications using the MERN stack, Next.js, and DigitalOcean.
@@ -30,7 +30,7 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), an enthu
     <br />
   </div>
   <br />
-  <div>
+- <div>
     <img width="100" height="100" align="left" src="https://media.licdn.com/dms/image/C560BAQEuthsfjDr4og/company-logo_200_200/0/1543920954810?e=2147483647&v=beta&t=sSKs6_eF1EHlVgKE2qthnbZjRmpc97Bcbqs-bRIT7ew" alt="Flotanomers R&D Pvt Ltd Logo">
     <strong>Backend Development Intern</strong><br/>
     Worked on the backend of various client web apps integrating with Razorpay payment gateway, Google OAuth 2, and various other backend technologies using NestJS and Postgres.
@@ -43,7 +43,7 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), an enthu
     <br />
   </div>
   <br />
-  <div>
+- <div>
     <img width="100" height="100" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5kgNpiXLjUhGi69xTOHrxKUdQyGBDPKBXn4twR5pP7A&s" alt="Gurugram Police Logo">
     <strong>Gurugram Police Cybercell Summer Internship</strong><br/>
     Conducted case studies on various cyber crimes using multiple attack techniques.
@@ -56,7 +56,7 @@ I'm [Karthik Shanbhag](https://karthikshanbhag.github.io/MY-PORFOLIO/), an enthu
     <br />
   </div>
   <br />
-  <div>
+- <div>
     <img width="100" height="100" align="left" src="https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61a1bee63c6e040a0dd33805_LOGO.svg" alt="DevTown Logo">
     <strong>Full-Stack Web Development Internship on MERN-Stack Technology</strong><br/>
     Worked on the development of REST APIs and built a full-stack eCommerce website, working on some basic MERN stack applications – JavaScript, Node, Express, MongoDB, React, Redux, Heroku.
